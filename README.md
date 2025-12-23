@@ -11,6 +11,11 @@ The system emphasizes:
 - Inclusive design principles
 - Healthcare and assistive technology relevance
 
+- Originally developed as a single notebook, the project was later
+refactored to separate model training and real-time interaction.
+This improves clarity and reflects a research-oriented workflow.
+
+
 
 ## Motivation
 Millions of deaf and hard-of-hearing individuals face communication barriers in healthcare, education, and daily interactions.  
